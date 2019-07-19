@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Naruto",
+      "image": "https://i.pinimg.com/originals/4e/4d/41/4e4d41009d4b09db4f41f571c4076107.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Sasuke",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1325ad04-cf2e-40ff-ad8c-7c9950df54ea/dammzhs-75b24eec-21c4-47d5-bec5-51bff5e95330.png/v1/fill/w_693,h_1154,q_70,strp/uchiha_sasuke_by_stingcunha_dammzhs-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjk0MCIsInBhdGgiOiJcL2ZcLzEzMjVhZDA0LWNmMmUtNDBmZi1hZDhjLTdjOTk1MGRmNTRlYVwvZGFtbXpocy03NWIyNGVlYy0yMWM0LTQ3ZDUtYmVjNS01MWJmZjVlOTUzMzAucG5nIiwid2lkdGgiOiI8PTE3NjYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.7x1yrmeXOEYI6Hh6MRwes-U7H3UUqn1_1BdfTfptQfM",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Sakura",
+      "image": "http://images6.fanpop.com/image/polls/1638000/1638955_1499532439842_full.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Kakashi Hatake",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a6bf3c3-ed4e-4d52-85b6-2692a3b8eeac/dd1pt4v-0fce71ae-d8e3-4694-a67f-f2144d0814a2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNmJmM2MzLWVkNGUtNGQ1Mi04NWI2LTI2OTJhM2I4ZWVhY1wvZGQxcHQ0di0wZmNlNzFhZS1kOGUzLTQ2OTQtYTY3Zi1mMjE0NGQwODE0YTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HuX7heKOFeYIkOo3NQTUv1yfnOAbfUt3lsvd2CCD9fY",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Minato Namikaze",
+      "image": "https://i.ytimg.com/vi/ddpqmlR9Ej4/maxresdefault.jpg",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Jiraiya",
+      "image": "https://pbs.twimg.com/media/CeqEX7JWQAEAdZF.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Tsunade Senju",
+      "image": "https://i.pinimg.com/originals/77/d2/95/77d29505d51957b899432ca39d295d8e.jpg",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Madara Uchiha",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a6bf3c3-ed4e-4d52-85b6-2692a3b8eeac/dd1y9wp-2ed6673d-7021-4e8a-bc41-c597d267a7c5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNmJmM2MzLWVkNGUtNGQ1Mi04NWI2LTI2OTJhM2I4ZWVhY1wvZGQxeTl3cC0yZWQ2NjczZC03MDIxLTRlOGEtYmM0MS1jNTk3ZDI2N2E3YzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s-QP0Uf7cqDuhawU1pdnHY96Zrh-dOw0Pkbgq4EEZgs",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Hashirama Senju",
+      "image": "http://otakukart.com/animeblog/wp-content/uploads/2016/02/20140625_5770914037059222.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Hinata Hyuga",
+      "image": "https://art.ngfiles.com/images/510000/510912_brittany-chan_lvl99-hinata-hyuga.jpg?f1494607525",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Orochimaru",
+      "image": "https://cdn.wallpapersafari.com/56/83/AuPLFk.jpg",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Tobirama Senju ",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a6bf3c3-ed4e-4d52-85b6-2692a3b8eeac/dd2lnv9-8997c754-cbe3-4a31-b427-836f2902e5d0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNmJmM2MzLWVkNGUtNGQ1Mi04NWI2LTI2OTJhM2I4ZWVhY1wvZGQybG52OS04OTk3Yzc1NC1jYmUzLTRhMzEtYjQyNy04MzZmMjkwMmU1ZDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QPmxa_t4nc_neyaMc6zh2cf03knsfheYK2I1jr5kSDU",
+      "count": 0
+    }
+  ]
